@@ -6,14 +6,15 @@ I'm currently pursuing a Bachelor in Information Engineering for Videogames and 
 
 ### 🚀 What I'm up to:
 - 🎓 Studying at Università Politecnica delle Marche (Expected Graduation: July 2027)
-- 🖋️ Expanding my worldbuilding as the author of the Dark Fantasy novel *Gemini After Miracle*
-- 💻 Developing complex software architectures and custom mechanics in C# and Unity
+- 🖋️ Author of a Dark Fantasy / New Weird novel *Gemini After Miracle*, working on a second Philosophical Horror / Grimdark novel called *On the Essence of Man*.
+- 💻 Developing complex software architectures and custom mechanics in C#, C++, Unity and Unreal Engine
 
 ### 🛠️ Tech Stack & Skills:
 - **Languages:** C, C#, C++
-- **Game Dev & 3D:** Unity, Blender, Rhinoceros
+- **Engineering & Data:** MatLab, Signal Processing (DSP)
+- **Game Dev & 3D:** Unity, Unreal Engine, Blender, Rhinoceros
 - **Design:** Narrative Design, UX Design, Game Theory, Level Design (Grayboxing)
 
 ### 🌍 Let's Connect:
-- 🔗 **Portfolio:** [stefano-cadalt-portfolio.framer.website](https://stefano-cadalt-portfolio.framer.website/)
-- 💼 **LinkedIn:** [linkedin.com/in/stefano-cadalt-00514a284](https://www.linkedin.com/in/stefano-cadalt-00514a284)
+- 🔗 **Portfolio:** [https://stefano-cadalt-portfolio.framer.website/]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/stefano-cadalt-00514a284/]
