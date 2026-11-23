@@ -16,5 +16,5 @@ I'm currently pursuing a Bachelor in Information Engineering for Videogames and 
 - **Design:** Narrative Design, UX Design, Game Theory, Level Design (Grayboxing)
 
 ### 🌍 Let's Connect:
-- 🔗 **Portfolio:** [https://stefano-cadalt-portfolio.framer.website/]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/stefano-cadalt-00514a284/]
+- 🔗 **Portfolio:** [Portfolio Site](https://stefano-cadalt-portfolio.framer.website/)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/stefano-cadalt-00514a284/)
